@@ -1,0 +1,9 @@
+{
+    "Database": {
+        "host": "111.111.111.11",
+        "DB_port": 3306,
+        "DB_user": "jdsol",
+        "DB_password": "11111111",
+        "DB_name": "cms"
+    }
+}
